@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulkitsujaan
 - 👀 I’m interested in Programming adn Robotics
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning ML
 - 📫 How to reach me --- dm me on insta @pulkitsujaan
 - Find me on YouTube ---- Pulkit Sujaan
 <!---
