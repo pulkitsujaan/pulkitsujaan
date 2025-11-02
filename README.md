@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pulkit Sujaan!</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
