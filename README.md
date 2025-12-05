@@ -32,18 +32,19 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pulkitsujaan&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=pulkitsujaan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Pulkit's GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitsujaan&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=pulkitsujaan&theme=tokyonight&hide_border=true"
     alt="Pulkit's GitHub Streak"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitsujaan&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitsujaan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
   />
 </p>
+
 
 ---
 
