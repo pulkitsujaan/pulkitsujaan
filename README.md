@@ -27,24 +27,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pulkitsujaan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=pulkitsujaan&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitsujaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitsujaan&theme=tokyonight&hide_border=true&background=0D1117&ring=23D18B&currStreakLabel=23D18B" alt="Streak Stats" />
   
-  <br/>
+  <br/><br/>
+  
   <img src="https://github-profile-trophy.vercel.app/?username=pulkitsujaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitsujaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
