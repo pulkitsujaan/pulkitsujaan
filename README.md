@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,html,css,tailwind,mongodb,cpp,git,github,vscode,postman,linux&perline=7" alt="Tech Stack" />
@@ -24,18 +24,22 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitsujaan&theme=tokyonight&hide_border=true&background=0D1117&ring=23D18B&currStreakLabel=23D18B" alt="Streak Stats" />
-  
+  <a href="https://github.com/pulkitsujaan">
+    <img src="https://img.shields.io/github/followers/pulkitsujaan?label=Followers&style=for-the-badge&color=23D18B&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/pulkitsujaan">
+    <img src="https://img.shields.io/github/stars/pulkitsujaan?label=Stars&style=for-the-badge&color=blueviolet&logo=github" alt="Stars" />
+  </a>
+  <a href="https://github.com/pulkitsujaan">
+    <img src="https://img.shields.io/github/last-commit/pulkitsujaan/pulkitsujaan?label=Last%20Update&style=for-the-badge&color=FF5733&logo=github" alt="Last Commit" />
+  </a>
+
   <br/><br/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=pulkitsujaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitsujaan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkitsujaan&bg_color=0D1117&color=23D18B&line=23D18B&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -45,7 +49,8 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Portfolio Website** | *A personal portfolio showcasing my skills and projects.* | `React` `Tailwind` |
-| **Coming Soon...** | *Currently working on a full-stack application.* | `Node.js` `Express` |
+| **Project Aviothic** | *Mental health support system prototype (SIH).* | `Full Stack` `AI` |
+| **Web3 Wallet** | *Concept for a Solana-based wallet app.* | `Solana` `React` |
 
 <br/>
 
