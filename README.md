@@ -1,81 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40,50&height=280&section=header&text=Pulkit%20Sujaan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20CS%20Undergrad%20@%20IIIT%20Una&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=23D18B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+# Hi, I'm Pulkit Sujaan 👋
+
+Full Stack Developer • Open Source Contributor • CSE @ IIIT Una
+
+[LinkedIn](https://linkedin.com/in/pulkitsujaan) • [Email](mailto:pulkitsujaan.work@gmail.com)
+
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **B.Tech CSE** at **Indian Institute of Information Technology, Una** (2024–2028)
-- 💻 Passionate about **Web Development**, **UI/UX**, and **Scalable Systems**
-- 🚀 Focused on building modern, efficient, and responsive web apps
-- 🌱 Currently expanding into **Backend Engineering (Node.js, Express, Databases)**
-- 💡 Believer in **clean code**, **design thinking**, and **lifelong learning**
+- 🎓 B.Tech CSE, IIIT Una (2024–2028)
+- 💻 Full Stack Web Developer
+- 🚀 Open Source Contributor (GSSoC '26)
+- 🌱 Currently learning System Design and Advanced DSA
+- ⚡ Interested in Backend Engineering, Distributed Systems, and Web Technologies
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,html,css,tailwind,mongodb,cpp,git,github,vscode,postman,linux&perline=7" alt="Tech Stack" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,react,nodejs,express,mongodb,tailwind,git,github,linux,postman,vscode" />
+</p>
 
-<br/>
+---
 
-## 📈 GitHub Activity & Stats
+## GitHub Activity
 
-<div align="center">
-  <a href="https://github.com/pulkitsujaan">
-    <img src="https://img.shields.io/github/followers/pulkitsujaan?label=Followers&style=for-the-badge&color=23D18B&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/pulkitsujaan">
-    <img src="https://img.shields.io/github/stars/pulkitsujaan?label=Stars&style=for-the-badge&color=blueviolet&logo=github" alt="Stars" />
-  </a>
-  <a href="https://github.com/pulkitsujaan">
-    <img src="https://img.shields.io/github/last-commit/pulkitsujaan/pulkitsujaan?label=Last%20Update&style=for-the-badge&color=FF5733&logo=github" alt="Last Commit" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pulkitsujaan&theme=github_dark" />
+</p>
 
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkitsujaan&bg_color=0D1117&color=23D18B&line=23D18B&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pulkitsujaan&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitsujaan&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Portfolio Website** | *A personal portfolio showcasing my skills and projects.* | `React` `Tailwind` |
-| **Project Aviothic** | *Mental health support system prototype (SIH).* | `Full Stack` `AI` |
-| **Web3 Wallet** | *Concept for a Solana-based wallet app.* | `Solana` `React` |
+### ChatApp
 
-<br/>
+Real-time chat platform built with Socket.IO, Node.js, Express, and MongoDB featuring instant messaging, typing indicators, online presence, and room-based communication.
 
-## 🤝 Connect With Me
+🔗 https://chatapp-pulkit.vercel.app
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pulkitsujaan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pulkitsujaan2708@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/pulkitsujaan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+### DayKeep
 
-<br/>
+Full-stack blogging platform with authentication, rich text editing, content management, and a modern responsive interface.
 
-<div align="center">
-  <i>“Code. Create. Learn. Repeat.”</i>
-</div>
+🔗 https://daykeep.vercel.app
 
-<hr/>
+### Solana Wallet
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pulkitsujaan&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-</div>
+A Solana-based wallet application enabling wallet creation, account management, and blockchain interactions through a clean web interface.
+
+🔗 https://solana-wallet-app-hazel.vercel.app/
+
+
+---
+
+## Open Source
+
+* 🚀 Contributor at GSSoC 2026
+* 🛠️ Contributing to production-grade open source projects
+* 📈 Interested in Backend Engineering and Distributed Systems
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/pulkitsujaan">LinkedIn</a> •
+  <a href="mailto:pulkitsujaan2708@gmail.com">Email</a> •
+  <a href="https://github.com/pulkitsujaan">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pulkitsujaan&style=flat-square&label=Profile+Views" />
+</p>
